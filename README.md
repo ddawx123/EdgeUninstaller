@@ -4,7 +4,9 @@ Test on Windows 11 Insider Preview 29576 and Edge Kernel 150 Stable Version
 
 Usage: execute RunMe.bat
 
-For international user recommendation: Use windows terminal (administrator mode) to avoid Chinese traditional font display issue.
+For all users recommendation: Before execute the RunMe.bat, please fully disable the Windows Defender or another guard software due to some process terminate operation or filesystem operation. In the latest versions of Windows, completely disabling Windows Defender may require entering the Windows RE environment and performing registry editing operations. For more information on this, please refer to other relevant documents or consult AI services.
+
+For international users recommendation: Use windows terminal (administrator mode) to avoid Chinese traditional font display issue.
 (Right click the start button, and select "Terminal (Admin)".)
 
 Design by myself, but script written by artificial intelligence.
